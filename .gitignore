@@ -1,0 +1,6 @@
+*.pt
+*.so
+*.c
+*.o
+__pycache__/
+out/*.wav
